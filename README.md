@@ -160,23 +160,6 @@ Uses standard Web APIs: `IntersectionObserver`, `matchMedia`, CSS custom propert
 
 ---
 
-## Company Info
-
-**Mangalam / Meera Industries Limited**
-2126, Road No. 2, GIDC Sachin,
-Surat – 394 230, Gujarat, India
-
-📧 info@meeraind.com
-🌐 [LinkedIn](https://linkedin.com) · [X](https://x.com) · [Instagram](https://instagram.com)
-
----
-
 ## License
 
 This project is a client work / portfolio piece. All rights reserved.
-
----
-
-<div align="center">
-  <sub>Built with ❤️ using pure HTML, CSS & JavaScript — no frameworks harmed.</sub>
-</div>
