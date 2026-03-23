@@ -14,6 +14,10 @@
 
 ---
 
+## 👉 Deployed Link: https://mangalamindia.netlify.app/
+
+---
+
 ## Overview
 
 This is a **high-performance product landing page** for **Mangalam HDPE Pipes & Coils**, a premium manufacturer of High-Density Polyethylene (HDPE) pipes for industrial, marine, and infrastructure applications. The page is purpose-built to convert visitors into qualified leads with a polished UI, interactive product experience, and a streamlined quote request flow.
